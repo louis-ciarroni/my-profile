@@ -1,0 +1,93 @@
+body {
+	background: #fff3e2;
+	color: rgb(30, 30, 30);
+	font-family: courier;
+	font-weight: lighter;
+	}
+
+	#profile-circle {
+		border-radius: 50%;
+	}
+
+	h1	{
+	color: #706897;
+	font-size: 50;
+	line-height: 2;
+	font-weight: bold;
+	margin-top: -20px;
+	margin-bottom: 30px
+	}
+
+	h2	{
+	color: #706897;
+	font-size: 20;
+	margin-top: -20px;
+	margin-bottom: 30px
+	}
+
+	a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #9088d4;
+	}
+
+	a:hover{
+		color: black;
+	}
+
+	p {
+		text-justify: center;
+	}
+
+	.container {
+		width: 700px;
+		margin: 40px auto;
+		text-align: center;
+	}
+
+	.card-white {
+		background: white;
+		border: 2px solid black;
+		padding: 40px;
+		margin: 50px auto;			    
+		width: 700px;			    
+		box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);			    
+		border-radius: 5px;			    			    			    
+	}
+
+	.btn-violet {
+		background-color:#9088d4;
+		color: white;
+		padding: 8px 20px;
+		border-radius: 5px; 
+	}
+
+	.btn-violet:hover {
+		background-color:black;
+		color: white;
+	}
+
+	.list-inline {
+		list-style: none;
+		padding-left: 0px;
+	}
+
+	.list-inline li {
+		display: inline;
+		padding: 10px
+	}
+
+	.list-inline i {
+		font-size: 50px;
+		color: #9088d4;
+	}
+
+	.list-inline i:hover {
+		font-size: 50px;
+		color: black;
+	}
+
+	#intro p {
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
